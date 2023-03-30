@@ -1,4 +1,6 @@
-![Alt text](<https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white>)
+![Alt text](<https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white>) ![Alt text](<https://img.shields.io/badge/About.me-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white>) ![Alt text](<https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white>)
+
+
 
 <!--
 **ekoerp1/ekoerp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
