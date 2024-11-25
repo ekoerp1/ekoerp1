@@ -2,7 +2,7 @@
 
 Hey Im ekoerp1!
 
-🔭 I’m currently working on a way to have a vpn at school
+🔭 I’m currently working on a game website 
 
 🌱 I’m currently learning python
 
